@@ -36,7 +36,7 @@ Este projeto foi desenvolvido como parte da Atividade 4 do curso, com o objetivo
 - **Interface:** XML para layouts no Android Studio
 - **Ambiente de Desenvolvimento:** Android Studio com Gradle
 
-## ** 4. Autora**
+## 4. Autora
 - Desenvolvido por Larissa Lima de Almeida.
 - RA: 223201
 
