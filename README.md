@@ -7,11 +7,8 @@ Este projeto foi desenvolvido como parte da Atividade 4 do curso, com o objetivo
 ## **Índice**
 1. [Funcionalidades](#funcionalidades)
 2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-3. [Pré-requisitos](#pré-requisitos)
-4. [Configuração e Execução](#configuração-e-execução)
-5. [Estrutura do Projeto](#estrutura-do-projeto)
-6. [Demonstração](#demonstração)
-7. [Autor](#autor)
+3. [Demonstração](#demonstração)
+4. [Autora](#autora)
 
 ---
 
@@ -32,13 +29,16 @@ Este projeto foi desenvolvido como parte da Atividade 4 do curso, com o objetivo
 - **Linguagem:** Java
 - **Frameworks e Bibliotecas:**
   - Retrofit
-  - Gson
   - Android Architecture Components
 - **APIs Utilizadas:**
   - [ViaCEP](https://viacep.com.br/)
   - [MockAPI](https://mockapi.io/)
 - **Interface:** XML para layouts no Android Studio
 - **Ambiente de Desenvolvimento:** Android Studio com Gradle
+
+## ** 4. Autora**
+- Desenvolvido por Larissa Lima de Almeida.
+- RA: 223201
 
 
 
